@@ -10,11 +10,11 @@ o	Species: Setosa, Versicolor, Virginica
 
 •	Task Requirements
 
-•	✅ Use measurements of Iris flowers as input +data
-•	✅ Train a machine learning model to classify species
-•	✅ Use Scikit-learn for dataset access and model building
-•	✅ Evaluate model accuracy and performance
-•	✅ Understand basic classification concepts
+•	 Use measurements of Iris flowers as input +data
+•	 Train a machine learning model to classify species
+•	 Use Scikit-learn for dataset access and model building
+•	 Evaluate model accuracy and performance
+•	 Understand basic classification concepts
 
 •	Implementation
 
